@@ -28,23 +28,7 @@ iti-web-training/
 ├── Day03/
 └── README.md
 ```
-# 📸 Day 1 Preview
 
-### Welcome Page
-
-![Welcome Page](screenshots/welcome.png)
-
----
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
----
-
-### Contact Page
-
-![Contact Page](screenshots/contact.png)
 
 ## 🎯 Goal
 
