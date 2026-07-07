@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    margin: 10px auto;
+    border: 2px solid #999;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#header{
+    background: red;
+    height: 90px;
+    text-align: center;
+    line-height: 90px;
+}
+
+#header h1{
+    font-family: "Times New Roman", serif;
+    font-style: italic;
+    font-size: 36px;
+}
+
+
+#linksbar{
+    width: 25%;
+    background: gray;
+    float: left;
+    min-height: 450px;
+    padding: 10px;
+}
+
+#loginform{
+    border-bottom: 2px dashed rgb(255, 255, 255);
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: white;
+}
+
+#loginform input[type="text"],
+#loginform input[type="password"]{
+    width: 120px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid red;
+}
+
+#loginform button{
+    margin-top: 5px;
+    padding: 2px 8px;
+}
+
+#linksbar h2{
+    margin-bottom: 15px;
+    
+}
+
+
+
+#linksbar li{
+    margin-bottom: 10px;
+}
+
+#linksbar a{
+    color: white;
+    background: crimson;
+    padding: 3px 5px;
+    text-decoration: none;
+}
+
+
+#content{
+    width: 75%;
+    float: left;
+    padding: 10px;
+    background: pink;
+}
+
+#content h2{
+    margin-bottom: 15px;
+    font-family: "Times New Roman", serif;
+    font-style: italic;
+}
+
+#aboutus{
+    color: red;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+
+#titles{
+    background: pink;
+    padding: 10px;
+}
+
+#titles p{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 3px 8px;
+    margin-right: 5px;
+    background: #f5dcdc;
+}
