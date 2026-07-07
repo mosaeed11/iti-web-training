@@ -15,7 +15,7 @@ This repository contains my daily tasks, exercises, and mini-projects completed 
 | ----- | ----------- | ------ |
 | Day 1 | HTML Basics | ✅      |
 | Day 2 | Coming Soon | ✅      |
-| Day 3 | Coming Soon | ⏳      |
+| Day 3 | Coming Soon | ✅      |
 
 
 ## 📁 Repository Structure
